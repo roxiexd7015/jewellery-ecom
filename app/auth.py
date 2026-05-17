@@ -6,5 +6,5 @@ def login():
     return 'this is the login page'
 
 @auth.route('/signup')
-def login():
+def signup():
     return 'this is the sign up page'
